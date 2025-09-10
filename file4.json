@@ -1,0 +1,2343 @@
+{
+    "ERRORMESSAGE": "",
+    "ERRORS": [],
+    "SUCCESS": true,
+    "DATA": {
+        "results": {
+            "exhibitor": {
+                "hit": [
+                    {
+                        "fields": {
+                            "exhalpha_l": "(",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F16032randomstring"
+                            ],
+                            "exhid_l": "92386207",
+                            "exhdesc_t": "Gindre Copper (GCI), with over 200 years of heritage, is a global leader in copper manufacturing, known for quality, innovation, and versatility. Serving industries from electronics and automotive to power generation and renewables, GCI offers precision-engineered specialty profiles, intricate components, advanced technologies, MAXIFLEX high-amperage LV power cable with near-zero bend radius, kitting and assembly for data centers, and motor stator profiles. By combining craftsmanship with advanced manufacturing, GCI delivers sustainable, reliable solutions that set benchmarks for excellence worldwide.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386207.png",
+                            "booths_la": [
+                                "F16032randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "(GCI)Gindre Copper Inc.",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386207-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F20521randomstring"
+                            ],
+                            "exhid_l": "92386412",
+                            "exhdesc_t": "Solar PV and Energy Storage World Expo 2026 is expected to reach an exhibition scale of 180,000 square meters, bringing together 2,000+ exhibitors and 200,000+ professional visitors,deeply linking upstream, midstream, and downstream industry chain resources,building a one-stop business procurement platform.We believe it will keep opening a new level of photovoltaic energy storage ceremony, serving global commerce, and creating a new photovoltaic and storage bureau in the new era of PV and energy storage!    Contact: Mandy Tsang (Zeng Liting)  Email: grand.gz@grahw.com",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F20521randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "18th Solar PV & Energy Storage World Expo 2026 (PV Guangzhou)",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386412-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "1",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F20621randomstring"
+                            ],
+                            "exhid_l": "92386335",
+                            "exhdesc_t": "1Amercia Solar, LLC (1A-Solar) and its affiliates design, develop and supply 1) turn-key laboratory equipment for the fabrication of high-efficiency solar cells, including TOPCon, HJT, BC, PERC, and Perovskite solar cells and the combination of these solar cells such as HBC, TBC, HTBC, PVK/Si devices. These turn-key labs are capable of producing high efficiency c-Si solar cells on 3”x3” or 4”x4” substrates, and 2) encapsulation materials for solar module manufacturing, including aluminum and CPC back sheets, EPE, EVA, POE, ETFE, and PVDF films, and lightweight soft glass films.           1A-Solar is an American company headquartered in Toledo, Ohio. 1A-Solar’s founders are reknowned leaders in PV research and manufacturing and have previously built solar companies and large-scale factories both in the US and in China.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386335.jpg",
+                            "booths_la": [
+                                "F20621randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "1America Solar, LLC",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386335-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "2",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V4052randomstring"
+                            ],
+                            "exhid_l": "92386253",
+                            "exhdesc_t": "257 uses purpose-built AI and the industry’s richest residential energy dataset to lower customer acquisition costs for solar, HVAC, and utility companies. In solar and storage, we score every home on its likelihood to adopt, drawing on insights from millions already equipped with panels, EVs, batteries, and generators. We’re debuting Pink at RE+, a self-serve platform that lets you analyze and market using everything 257 knows about U.S. homes. Swing by our booth for a first look.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386253.png",
+                            "booths_la": [
+                                "V4052randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "257 Co.",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386253-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "3",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15729randomstring"
+                            ],
+                            "exhid_l": "8800656",
+                            "exhdesc_t": "360X Staffing is a staffing experience management company. We understand that everything you do in life is about the experience. We have redefined what the staffing experience needs to be, always pressing forward into the future needs of our clients and the industry as a whole. We are here to deliver a peerless staffing experience for our cleints and employees while keeping the values of Experence, Innovation, Service, and Quality at the forefront of your outcome. The future of Skilled staffing is here with 360X Staffing.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800656.png",
+                            "booths_la": [
+                                "F15729randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "360X Staffing",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800656-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "3",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15951randomstring"
+                            ],
+                            "exhid_l": "9483057",
+                            "exhdesc_t": "We are dedicated to creating a better tomorrow by discovering new ways to optimize our electrical infrastructure. The power to help make a better, safer, more sustainable future of mobility possible for people around the world. That's the power of 3M Science.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F15951randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "3M",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9483057-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "3",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3908randomstring"
+                            ],
+                            "exhid_l": "92386038",
+                            "exhdesc_t": "Fire protection contractor",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386038.png",
+                            "booths_la": [
+                                "V3908randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "3S Incorporated",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386038-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "4",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V7743randomstring"
+                            ],
+                            "exhid_l": "611",
+                            "exhdesc_t": "4 S.T.E.L. Engineering is a nationally recognized structural engineering firm with deep expertise in renewable energy. Licensed With over two decades of experience in solar and energy infrastructure, we specialize in structural design for: Solar Canopies, Ground-Mount & Roof-Mount PV, EV Charging Infrastructure, and Battery Energy Storage Systems (BESS). We’ve engineered hundreds of megawatts across the U.S., delivering real-world, code-compliant solutions that meet strict standards—from DSA to NAVFAC and major utility jurisdictions. Our practical, buildable designs reduce construction delays and optimize system performance.    We’re trusted by EPCs, developers, and manufacturers who need experienced, responsive engineering partners for fast-paced, high-impact projects.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V7743randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "4 S.T.E.L. ENGINEERING, INC.",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "611-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "6",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V1626randomstring"
+                            ],
+                            "exhid_l": "8800213",
+                            "exhdesc_t": "60Hertz Energy is an Operations & Maintenance (O&M) SaaS platform purpose-built for the renewable energy sector. AI functions are intrinsic. Our offering is composed of four parts: 1) CMMS and Mobile App, 2) Remote Ops Logging Platform, 3) Environmental Generation Loss Model and 4) AI Tools for Field Efficiency.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V1626randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "60Hertz Energy",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800213-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "9",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3826randomstring"
+                            ],
+                            "exhid_l": "9482878",
+                            "exhdesc_t": "93Energy is Chicagoland's premier provider for solar power systems and is 5-STAR Rated on Google Business. We are proud to offer businesses in Illinois and around the country, the freedom and flexibility to choose how they buy power, while also saving money on their electricity bills and promoting a more sustainable, clean environment!    Renovations Delivered, the parent company of 93Energy, has been in business since 2010 with warehousing and operations strategically located throughout the Midwest. The three founders of Renovations Delivered collectively bring fifty years of industry experience in market-rate and affordable real estate development, design, and high-volume commercial construction.    93Energy takes great pride in providing solar and storage design + build solutions for C&I opportunities. We also provide developer services on utility scale and community solar projects, and a range of O&M offerings.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "9482878.png",
+                            "booths_la": [
+                                "V3826randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "93Energy",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9482878-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15651randomstring"
+                            ],
+                            "exhid_l": "8800436",
+                            "exhdesc_t": "A-Rent offers a multimillion-dollar fleet of test equipment from top OEMs, including Doble, Omicron, Megger, Fluke and HV Diagnostics, and an advanced cloud-based ERP system to enable smooth rental logistics and asset management.     A-Rent offers NIST-traceable calibration services for a wide range of electrical test equipment on a 3 day turnaround time. Optional adjustment, repair and firmware upgrade services are also available for many items.    A-Rent prides itself on having the youngest rental fleet in the industry and our equipment is functionally tested on specimen apparatus before each rental. A-Rent is the source for the equipment and expertise you need to support your testing of relays, transformers, cabling, circuit breakers and more.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F15651randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "A-Rent Test Equipment",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800436-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F17253randomstring"
+                            ],
+                            "exhid_l": "8800419",
+                            "exhdesc_t": "A123 Systems delivers lithium-ion battery technology and containerized energy storage systems built for today’s energy demands. Our portfolio spans from residential and community energy storage to utility-scale BESS, including 5 ft and 20 ft containerized solutions that support renewable integration, peak shaving, load shifting, microgrids, and backup power.    We serve utilities, commercial enterprises, government, and industry, providing solutions that ensure reliability, safety, and scalability. Backed by advanced R&D and preparing for North American manufacturing in 2027, A123 is focused on innovation in energy density, safety, and system intelligence.    At RE+ 2025, we will showcase our latest containerized BESS and residential systems, designed to help customers achieve cleaner, smarter, and more resilient energy.    Visit us at Booth F17253 to see how A123 Systems is advancing the future of energy storage.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F17253randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "A123 Systems, LLC",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800419-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V9625randomstring"
+                            ],
+                            "exhid_l": "8800551",
+                            "exhdesc_t": "ABC Supply Co., Inc. is the largest wholesale distributor of roofing and other select exterior and interior building products in North America. Since its founding in 1982, ABC Supply’s sole focus has been serving professional contractors and “making it easy” for them to do their jobs by offering the products, support and services they need — including myABCsupply, which allows them to place material orders and manage their account details from anywhere.    Jumping into renewable energy, ABC Supply partners with major RE brands  and brings them under one distributor. With over 900 locations across the U.S. and Canada and the industry's largest delivery fleet, ABC Supply is committed to the success of your job.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800551.jpg",
+                            "booths_la": [
+                                "V9625randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "ABC Supply",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800551-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2896randomstring"
+                            ],
+                            "exhid_l": "35225",
+                            "exhdesc_t": "Above develops plant health software, helping solar companies to generate more power from data. With cutting edge-technology Above supports the solar industry to build and operate longer-lasting, higher-performing solar plants and accelerate global deployment.     We accomplish this through building and maintaining a holistic, digital record of your asset’s health. Our software provides a record of solar inspection and test data in one place and the tools to get the most value from it. We support quality and efficiency through the optimal use of data across the entire solar plant lifecycle.     Our vision is to be the go-to company for scalable, innovative solutions within the solar industry, admired for its people, client service and technical excellence.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V2896randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Above Surveying Inc",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "35225-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15424randomstring"
+                            ],
+                            "exhid_l": "7746",
+                            "exhdesc_t": "Accuenergy manufactures and designs industrial power and energy meter solutions. This also includes a variety of current transformers, hall effect sensors, energy management software, data acquisition communications devices, and much more.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F15424randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Accuenergy (Canada) Inc.",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "7746-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F17701randomstring"
+                            ],
+                            "exhid_l": "8800257",
+                            "exhdesc_t": "ACCURE helps companies assess battery risk, ensuring safety and maximizing business value. By simplifying the complexity of battery data, our software makes batteries safer, more reliable, and more sustainable. Thru advanced cloud computing, ACCURE is bringing modern risk monitoring and assessing techniques to energy storage systems. We combine cutting-edge artificial intelligence and machine learning with deep expert knowledge of how batteries are used in across all types of energy storage systems. Today, we support customers from around the world helping to optimize the performance and safety of their battery systems. Visit us at accure.net.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F17701randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "ACCURE Battery Intelligence",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800257-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V6903randomstring"
+                            ],
+                            "exhid_l": "92385997",
+                            "exhdesc_t": "Our company is a leading specialized container design and manufacturing firm with 30 years of expertise. As a first-generation pioneer in the container industry, we played a crucial role in introducing container manufacturing technology to the domestic market.    We produce custom-engineered containers for industries including energy, marine, aerospace, and defense. Additionally, we provide comprehensive Energy Storage System (ESS) solutions, delivering high-quality, high-safety ESS products globally",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V6903randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "ACE Engineering",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385997-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F17103randomstring"
+                            ],
+                            "exhid_l": "8800215",
+                            "exhdesc_t": "Acelerex is an independent consultant, software maker, and EMS - SCADA provider for the power industry. Acelerex provides grid analytics & data services for developers and utilities including asset valuations, development reports, and energy & ancillary price forecasts. REX is Acelerex's EMS - SCADA solution that provides wholesale market access & optimization, as well as asset controls and monitoring systems.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F17103randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Acelerex",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800215-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13000randomstring",
+                                "V13525randomstring"
+                            ],
+                            "exhid_l": "8800218",
+                            "exhdesc_t": "ADAPTIVE CONSTRUCTION SOLUTIONS, INC. ACS is an apprenticeship intermediary that sponsors U.S. DOL multi-employer (non-joint) Registered Apprenticeship for multiple industries including the renewable energy sector. Adaptive Construction Solutions, Inc. (ACS) is a full-service “award winning” provider that can perform all apprenticeship functions to “hide the wiring” of your program. Utilize our team to register, manage, and accelerate your program while you focus on your business. In addition to apprenticeship development and administration, we specialize in complex regulatory compliance issues and resolution, ensuring that our partners remain fully aligned with evolving federal, state, and industry requirements. For businesses that need greater support, ACS regularly serves as both sponsor and administrator.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800218.png",
+                            "booths_la": [
+                                "V13000randomstring",
+                                "V13525randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "ACS - Apprenticeship",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B",
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800218-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V12498randomstring"
+                            ],
+                            "exhid_l": "7747",
+                            "exhdesc_t": "Adani Solar is the Solar PV manufacturing arm of the Adani Group, a diversified organization in India with a combined market cap of $143 Bn comprising 13 publicly traded companies. The Company’s presence in the solar manufacturing sector contributes to India’s climate goals and bolsters its vision of embracing a healthier energy mix.     Adani Solar’s cutting-edge technology, scale of operations, cost leadership, and reliability, sets it apart from all other global competitors and supporting utilities.   Currently, the plant produces high-efficiency PERC & Shine TOPCon modules of M10 and G12R footprint with Power class of 625 Wp , with a module efficiency of 21-23% and targeting Bifaciality upto 85%. Now, the Company is building the World’s 1st ever Fully Integrated and Comprehensive Ecosystem of 10 GW Solar PV manufacturing – an ecosystem that is not only vertically integrated from MG silicon to PV Modules but also hosts all ancillary units in the same geography.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "7747.jpg",
+                            "booths_la": [
+                                "V12498randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Adani Solar",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "7747-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F17852randomstring"
+                            ],
+                            "exhid_l": "92386039",
+                            "exhdesc_t": "Renewable energy solutions from AEPL include end-to-end services: conceptualizing, designing, supplying, installing, testing, commissioning, and maintaining complete industrial automation and electrical systems. The company also offers customized software solutions for Central Plant Monitoring and Mobile Asset Management, ensuring optimal installation performance. With a focus on project management, AEPL takes full ownership of all automation and electrical project requirements.  AEPL has achieved an exceptional track record of managing Renewable Plant Monitoring Software installed base of 53GW+ at 600+ plants across the globe. With such a vast experience, cost leadership, faster execution and quality of work, the company is considered as a “Preferred Project Partner”.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386039.png",
+                            "booths_la": [
+                                "F17852randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "ADAPTIVE ENGINEERING PRIVATE LIMITED",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386039-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V7349randomstring"
+                            ],
+                            "exhid_l": "8800082",
+                            "exhdesc_t": "Global Turnkey Renewable Energy (Solar, Energy Storage, EV Infra) Engineering and Asset Management services company across Residential, C&I, Community and Utility power plants. Engineering disciplines include Electrical, Civil, Structural and Mechanical Engineering. Experienced Engineers to assist from bid / sales design to Detailed Project Engineering Construction level design. Deep analytical experience in electrical studies such as short circuit, arc flash, relay coordination, cable ampacity, earthing, structural, among other simulations. Asset Management services include Performance Analytics (PowerBI etc.), Availability analysis, Root Cause determinations, Preventative Maintainence, Contractor support.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V7349randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Adirain Technology, LLC",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800082-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V6705randomstring"
+                            ],
+                            "exhid_l": "7632",
+                            "exhdesc_t": "Manufacturer of DC High Speed Fuses and System Protection Devices",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V6705randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Adler Elektrotechnik Leipzig GmbH",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "7632-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15133randomstring"
+                            ],
+                            "exhid_l": "92385828",
+                            "exhdesc_t": "As energy technologies evolve—from BESS to renewables like solar, wind, and hydro—thermal management is critical to safety, reliability, and performance. In platforms like flow batteries, solid-state systems, and power conversion technologies, precise heat dissipation prevents failures, mitigates fire risks, improves efficiency, and extends lifespan.     ACT designs and manufactures passive and active cooling solutions—including ECUs, chillers, and single- and two-phase systems—tailored to modern energy demands. Our technologies support generation, conversion, storage, and power electronics under dynamic conditions.   With decades of innovation, ACT partners with industry leaders to deliver intelligent thermal strategies that boost performance, extend system life, and strengthen energy resilience.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F15133randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Advanced Cooling Technologies, Inc.",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385828-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "iscrossref_l": "0",
+                            "exhalpha_l": "A",
+                            "booths_la": [
+                                "V1450randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "exhname_t": "Advanced Manufacturing Technology",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "boothsdisplay_la": [
+                                "V1450randomstring"
+                            ],
+                            "exhid_l": "92385896",
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385896-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15929randomstring"
+                            ],
+                            "exhid_l": "8799843",
+                            "exhdesc_t": "Founded in 1981, Advanced Test Equipment Rentals is a leading provider of test and measurement equipment rentals, sales, calibration, and service. We are committed to equipping customers with everything from the latest technology to legacy equipment, and quality service and personalized guidance to a full testing solution system. As an A2LA ISO 17025 accredited calibration company, ATEC provides products for a variety of industries, including automotive, aerospace, calibration, communications, consumer electronics, defense, EMC, environmental health & safety, and NDT inspection.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F15929randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Advanced Test Equipment",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799843-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "iscrossref_l": "0",
+                            "exhalpha_l": "A",
+                            "booths_la": [
+                                "V3654randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "exhname_t": "AE Solar Co., Ltd",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "boothsdisplay_la": [
+                                "V3654randomstring"
+                            ],
+                            "exhid_l": "92386108",
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386108-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V5057randomstring"
+                            ],
+                            "exhid_l": "92385823",
+                            "exhdesc_t": "Applied Engineering Consultants is a full-service structural engineering firm that focuses on the commercial and industrial PV sector.  Our experienced engineers deal with any structural design needs that an EPC or Solar Developer may encounter.  We are well versed in rooftop feasibility studies, solar canopies for on-grade parking lots and garage tops, equipment support systems, and ground mount racking.  AEC offers services in almost all 50 states and Puerto Rico.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385823.jpg",
+                            "booths_la": [
+                                "V5057randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "AEC Structural Engineers",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385823-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V7927randomstring"
+                            ],
+                            "exhid_l": "2682",
+                            "exhdesc_t": "We specialize in developing, manufacturing, and distributing solar panel mounting solutions that meet all static requirements, wind and snow loads, and the highest industry standards and norms. We firmly believe that solar technology is the key to resource and environmentally friendly energy generation, and we're committed to driving global decarbonization with our intelligent mounting solutions.  Our success story began with an innovative bracket system for mounting solar panels that reduces the amount of material needed for the substructure of photovoltaic systems by a third.  In addition to our mounting components, we've launched a specially developed visualization and planning software that sets new standards. AEROTOOL is a proprietary digital platform that makes it quick and easy to plan solar systems while taking all structural requirements into account. In a short time, AEROTOOL has become the world's leading platform in this market segment.  We are excited to see you!",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V7927randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "AEROCOMPACT, Inc.",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "2682-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3636randomstring"
+                            ],
+                            "exhid_l": "1286",
+                            "exhdesc_t": "​​​​​​​​​Our People Are Everything™​​​​​​​. For more than 35 years, Aerotek® Inc. has built a reputation for providing the highest-quality staffing and workforce management solutions. With deep expertise in the manufacturing, logistics, construction, aviation and facility management industries, we partner with 13,000 clients and more than 200,000 light industrial and skilled trades contract employees every year. Our people-focused approach connects quality talent with meaningful work and continuous opportunities. Headquartered in Hanover, Md., Aerotek operates a unified network of over 250 offices across North America. Aerotek is an operating company within Allegis Group, a global leader in talent solutions.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V3636randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Aerotek Inc.",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "1286-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "iscrossref_l": "0",
+                            "exhalpha_l": "A",
+                            "booths_la": [
+                                "V10445randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "exhname_t": "AES",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "boothsdisplay_la": [
+                                "V10445randomstring"
+                            ],
+                            "exhid_l": "3772",
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "3772-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V12450randomstring"
+                            ],
+                            "exhid_l": "92386023",
+                            "exhdesc_t": "AESC is a global leader in the development and manufacturing of high-performance batteries for zero-emission electric vehicles and energy storage systems.    Founded in Japan in 2007 and headquartered in Yokohama, AESC has been building manufacturing capabilities around the world in the U.S., U.K., Europe, Japan and China to serve key markets and leading customers locally for nearly two decades.    Today, AESC has become the partner of choice for the world’s leading OEMs and energy storage providers in North America, Europe, and Asia. Its advanced technology powers over one million electric vehicles and provides battery energy systems in over 60 countries.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V12450randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "AESC Group Ltd.",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386023-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V4050randomstring"
+                            ],
+                            "exhid_l": "92386255",
+                            "exhdesc_t": "Aether is an AI-powered front-office platform for contractors — a go-to-market engine that combines targeting, design, proposals, and deal management into one system built for trades like Solar, Roofing, HVAC, Landscaping, and Fire Mitigation.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386255.png",
+                            "booths_la": [
+                                "V4050randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Aether",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386255-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V1641randomstring"
+                            ],
+                            "exhid_l": "8799804",
+                            "exhdesc_t": "AFC Solar is a tier 1 solar installation subcontractor specializing in steel erection, foundations, pv installation and DC wiring on Commercial ground mount and garage top carports as well as commercial rooftop installation.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8799804.jpg",
+                            "booths_la": [
+                                "V1641randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "AFC Solar",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799804-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F20021randomstring"
+                            ],
+                            "exhid_l": "32409975",
+                            "exhdesc_t": "Affordable Wire Management (AWM) delivers innovative, precision-engineered Cable Management Systems (CMS) and Battery Energy Storage Systems (BESS) wire management solutions to all of the nation’s top-ranked EPCs. AWM’s ampacity-optimized solar CMS hangers include the Arden Hanger, the Hail-Stow Hanger, and the Pinyon Hanger. Supporting products include the Bonsai Module Cable Hanger, the SUMAC Rail, and the Solar LOTO.  AWM’s Strata is a purpose-built wire management solution engineered specifically for today’s market-leading BESS platforms. All offerings are designed to excel in both economics and longevity, and to further accelerate the widespread adoption of clean energy. To date, nearly 30 GW of AWM solutions have been installed across 350 projects worldwide, with the average grid-scale power plant more than 200 MW in size. All AWM products listed in the company’s catalog can be customized to meet the specific requirements of utility-scale projects.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "32409975.png",
+                            "booths_la": [
+                                "F20021randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Affordable Wire Management",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32409975-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2439randomstring"
+                            ],
+                            "exhid_l": "8800618",
+                            "exhdesc_t": "Battery-powered lockbolt installation & monobolt fastening tool",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V2439randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "AG-MEISHAN FASTENING",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800618-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2652randomstring"
+                            ],
+                            "exhid_l": "9482877",
+                            "exhdesc_t": "AHZ Engineers provides structural, electrical, and design (plan set) services to manufacturers, installers, architects, developers, and asset managers in the field of renewable energy across the United States.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V2652randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "AHZ Consulting Engineers Inc",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9482877-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "iscrossref_l": "0",
+                            "exhalpha_l": "A",
+                            "booths_la": [
+                                "F15816randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "exhname_t": "Ai Pro",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "boothsdisplay_la": [
+                                "F15816randomstring"
+                            ],
+                            "exhid_l": "92386471",
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386471-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V1267randomstring"
+                            ],
+                            "exhid_l": "9483159",
+                            "exhdesc_t": "Aim Dynamics is a premier distributor and manufacturer of quality power monitoring equipment. They stock and sell a wide range of products from a diverse selection of manufacturers. Additionally, they provide building and design services that utilize their product selection in the most effective ways possible.   Featuring  • AC/DC meters, and sensors  • Automation equipment  • Relays (protection, time, monitoring, switching, current)  • Industrial cellular routers and switches  Aim Dynamics is a certified UL 508a panel building shop. They build safe, high-quality panels for countless applications.  Aim Dynamics provides services that use innovative solutions for optimizing power management, utilizing automation, providing wireless connectivity, and so much more.   Contact our team and experience the Aim Dynamics difference today!",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V1267randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Aim Dynamics",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9483159-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "iscrossref_l": "0",
+                            "exhalpha_l": "A",
+                            "booths_la": [
+                                "V4494randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "exhname_t": "Aim High Manufacturing LLC",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "boothsdisplay_la": [
+                                "V4494randomstring"
+                            ],
+                            "exhid_l": "92386247",
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386247-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2636randomstring"
+                            ],
+                            "exhid_l": "92386049",
+                            "exhdesc_t": "AIOTIES is a manufacturer engaged in  solar modules, inverters, energy storage batteries, solar power systems and supporting products for solar power stations.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V2636randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "AIOT ENERGY CO.,LTD.",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386049-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2056randomstring"
+                            ],
+                            "exhid_l": "3591",
+                            "exhdesc_t": "AK Solar, a Division of AK Stamping, provides innovative and cost effective solutions for PV module bonding and grounding. AKS’ lineup of solar products can reduce installation balance of system costs by simplifying installation. Our patented products offer unmatched durability and compatibility, working with top and bottom mount racking systems. In-house design and engineering reduce costs and response times.  Products include; Grounding Spacers, Conductive Mid-Clamps, Conductive End-Clamps, Grounding Clips, PV Bonding Jumpers and Grounding Terminals.    Bonding jumpers, grounding spacers, mid- and end-clamps that are recognized to UL Standard 2703 and ETL listed to UL Standard 467.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V2056randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "AK Solar Products",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "3591-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V6486randomstring"
+                            ],
+                            "exhid_l": "92386330",
+                            "exhdesc_t": "As Alfa Solar Energy, we opened the doors of our solar panel manufacturing facility in 2011, which we established to provide reliable and efficient solutions that will meet the increasing energy needs of our country every day and leave a more livable world for future generations.    We used our more than 40 years of production experience, which we gained from our group companies we are affiliated with, to set up our robotic production facility with superior technological capabilities located in Kırıkkale Organized Industrial Zone.    Today, we produce 2 GW photovoltaic panels every year at our production facility with a covered area of 40,000 m². By introducing the high-quality and efficient solar panels we produce to the leading solar energy producers of our country, we are strengthening their production power.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V6486randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Alfa Solar",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386330-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F17640randomstring"
+                            ],
+                            "exhid_l": "92386340",
+                            "exhdesc_t": "Align provides industry leading warranty solutions for various areas within the solar industry, including battery manufacturers, installers, and administration services.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F17640randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Align Solar Protection",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386340-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2038randomstring"
+                            ],
+                            "exhid_l": "92386115",
+                            "exhdesc_t": "Alleghany Services is a national leader in agricultural drainage with over 40 years of experience designing and managing water quantity and quality. We support renewable energy developers by accurately locating existing tile drainage systems and delivering trusted, field-proven engineering solutions. Our services help avoid costly tile damage, mitigate infrastructure conflicts, and protect long-term landowner relationships. We also offer trenchless installation and site work capabilities across the Eastern U.S.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V2038randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Alleghany Services",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386115-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3622randomstring"
+                            ],
+                            "exhid_l": "9483240",
+                            "exhdesc_t": "The Alliance for Tribal Clean Energy is a Native-led nonprofit dedicated to helping Tribal nations achieve energy sovereignty. We provide no-cost technical, financial, and workforce assistance, and foster equitable and profitable clean energy partnerships between Tribes and industry.  Through our Preferred Provider Program, we connect Tribes with vetted, ethical developers and service providers, while our first-of-its-kind Weaver Platform financial modeling tool and legal document template library streamlines project planning, financing, and execution—removing barriers and creating win-win outcomes for Tribes and industry partners alike.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V3622randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Alliance for Tribal Clean Energy",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9483240-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3898randomstring"
+                            ],
+                            "exhid_l": "8800509",
+                            "exhdesc_t": "Alliant Consulting is the nation’s premier prevailing wage compliance firm with over 20 years of experience with State and Federal Prevailing Wage Requirements. Let us take on the burden of your project. We’re here to help keep you compliant and avoid costly penalties. Alliant has experience with the Inflation Reduction Act and is eager to help clients capture the added tax credits.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V3898randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Alliant Consulting, Inc.",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800509-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15301randomstring"
+                            ],
+                            "exhid_l": "32410016",
+                            "exhdesc_t": "Alpex Solar is an NSE-SME listed, leading solar equipment manufacturing company of India, headquartered in Greater Noida. Our state-of-the-art manufacturing facility boasts a fully automatic 1.2GW production line - growing to 2.4GW in addition to a 1.6GW TOPCon PV Cell manufacturing capacity. We are a vertically integrated team led by over 375 professionals and are positioned at the forefront of the renewable energy revolution. We are committed to providing high-quality, sustainable solar solutions and contributing to a greener, cleaner future.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "F15301randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Alpex Solar Ltd.",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32410016-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "0",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3086randomstring"
+                            ],
+                            "exhid_l": "92386210",
+                            "exhdesc_t": "Alpha Environmental + Engineering provides state of the art environmental, geotechnical, laboratory testing, and engineering services ensuring practical, economical, and comprehensive solutions specifically designed for the Solar Power Industry. We have performed over 500 environmental studies for utility scale solar projects ranging from 5 MW to over 500 MW across the United States. These projects have been situated in many different environments ranging from the low-lying regions of the east coast through the Rocky Mountains to the desert southwest. Each project possessed unique challenges and required flexible solutions. Alpha’s experienced staff of Professional Engineers, Professional Geologists, REPA’s, certified environmental scientists, certified wetlands delineators, and trained/certified field technicians will provide you with the utmost professional quality specific to the needs of each project.",
+                            "exhbullet_t": "0",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386210.jpeg",
+                            "booths_la": [
+                                "V3086randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Alpha Environmental + Engineering",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386210-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V8087randomstring"
+                            ],
+                            "exhid_l": "32409876",
+                            "exhdesc_t": "ALPS Solar Energy is positioned to lead innovation in the global renewable energy sector. Headquartered in California, USA, we operate advanced solar manufacturing facilities with 2GW annual capacity in both the Philippines and Romania. Our strategic 12,000 m²production base in Călărași, Romania features fully automated assembly lines and precision engineering systems, ensuring product performance that meets global certification standards.    ALPS Solar Energy’s team brings over 15 years of expertise from leading companies in the renewable energy sector, such as ReneSola, Boviet Solar, and Trina Solar. This extensive experience enables us to provide customized support that meets the specific needs of the US market and ensure top-tier solutions for our customers.",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V8087randomstring"
+                            ],
+                            "exhadvind_t": "0",
+                            "exhname_t": "Alps Solar Energy Inc",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32409876-Exhibitor-RE25"
+                    }
+                ],
+                "start": 0,
+                "found": 1325
+            },
+            "featured": {
+                "hit": [
+                    {
+                        "fields": {
+                            "exhalpha_l": "A",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V10131randomstring"
+                            ],
+                            "exhid_l": "3542",
+                            "exhdesc_t": "APsystems is the #1 global leader in multi-platform MLPE solutions for the solar PV industry. Our product line includes microinverters, energy storage, and rapid shutdown devices—engineered to help you maximize your solar investment. APsystems microinverters are intelligent, innovative, and the world’s best-selling multi-module microinverters, delivering reliable, efficient power conversion for solar systems of all sizes.    And we’re not just powering solar—we’re powering the conversation.  Catch TEDDY Talks live at the APsystems Booth! It’s your go-to source for real, in-the-field solar content. If you’ve spent time in the industry, chances are you’ve seen Teddy Hodges in action—walking rooftops with installers, breaking down the latest product innovations, or sharing quick tips straight from the job site. With his hands-on experience and approachable style, TEDDY Talks brings real-world insight and fresh energy to the solar space.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "3542.jpg",
+                            "booths_la": [
+                                "V10131randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "APsystems",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "3542-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "B",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V12692randomstring"
+                            ],
+                            "exhid_l": "9482893",
+                            "exhdesc_t": "Built Robotics’ mission is to build the robots that build the world. By automating repetitive tasks in the $300 billion solar industry, Built is bridging the workforce gap to accelerate our transition to clean energy.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "9482893.png",
+                            "booths_la": [
+                                "V12692randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Built Robotics",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9482893-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "C",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13123randomstring"
+                            ],
+                            "exhid_l": "8799897",
+                            "exhdesc_t": "For 135+ years, Carhartt has been trusted by trade professionals to take on the toughest jobs. But our durable, high-quality uniform solutions provide more than just protection. The right gear can help your business reduce replacement costs, elevate your brand image, boost morale and retain skilled workers. Which is why Carhartt Company Gear™ was designed from the ground up to outfit teams of 10 to 10,000+ with workwear that help crews and companies perform their best. Learn why Carhartt is more than a uniform, it's a business advantage at companygear.carhartt.com/why-carhartt.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8799897.jpg",
+                            "booths_la": [
+                                "V13123randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Carhartt Company Gear™",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799897-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "C",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3087randomstring"
+                            ],
+                            "exhid_l": "92385890",
+                            "exhdesc_t": "China Quality Certification Centre (CQC) is a third - party professional certification body approved by the Chinese government and recognized by multiple foreign governments and international authoritative organizations.   CQC was reorganized in 2002 from the former China Import and Export Commodity Quality Certification Center, the Secretariat of the former China Certification Committee for Electrical Equipment, and five other institutions. After more than 40 years of development, it has become a large - scale and industry - leading quality service body in China, with a wide - ranging business coverage, an extensive service network and strong technical strength. It is also a globally well - known certification brand with high credibility and reputation.  CQC has always been committed to helping clients improve product and service quality through high - tech and professional services such as certification, inspection",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385890.png",
+                            "booths_la": [
+                                "V3087randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "CHINA QUALITY CERTIFICATION CENTRE Co.,Ltd.",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385890-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "C",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15725randomstring"
+                            ],
+                            "exhid_l": "8800065",
+                            "exhdesc_t": "Renewable energy and battery energy storage systems are quickly transforming traditional power systems from fossil-fuelled generation to a hybrid mix of resources. Our smart control solutions effectively integrate generators, renewables and energy storage to ensure the reliability of traditional power generation systems and, at the same time reduce energy costs, extend fuel supplies, reduce your environmental impact and provide greater energy resilience.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800065.png",
+                            "booths_la": [
+                                "F15725randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "ComAp",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800065-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "C",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2855randomstring"
+                            ],
+                            "exhid_l": "92386142",
+                            "exhdesc_t": "Founded in 2022, Cyber Energia is a trusted cybersecurity service provider exclusively dedicated to protecting the renewable energy industry from cyber threats. Our solutions are purpose-built for the unique challenges of renewable operational technology (OT), ensuring that critical infrastructure remains secure, resilient, and compliant.    With a deep understanding of the intricacies of renewable energy assets, we provide tailored cybersecurity solutions that integrate onsite hardware, advanced SaaS platforms, and 24/7 Security & Network Operations Centre (SNOC) support. Our SaaS platform, CEntry, delivers real-time visibility into OT environments, enabling proactive risk mitigation, rapid incident response, and seamless compliance management.    With our headquarters in Hammersmith, London, and additional offices in Brazil, Israel and Switzerland, Cyber Energia is committed to ensuring the resilience and security of renewable energy infrastructures worldwide.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386142.png",
+                            "booths_la": [
+                                "V2855randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Cyber Energia",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386142-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "E",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V8119randomstring"
+                            ],
+                            "exhid_l": "32409730",
+                            "exhdesc_t": "Power you can count on. People you can trust.  Our company was built on a simple belief:  homeowners deserve reliable, high-performance energy systems without the hassle or the high price tag. Find out how you can have energy on your terms.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "32409730.png",
+                            "booths_la": [
+                                "V8119randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "EG4 Electronics",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32409730-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "E",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13526randomstring"
+                            ],
+                            "exhid_l": "1007",
+                            "exhdesc_t": "Headquartered in Billings, MT, Electrical Consultants, Inc., along with our wholly owned subsidiary, EPC Services Company, offers electrical and civil engineering, environmental, surveying & right of way, electrical startup & testing, design construct services and construction management and inspection to electric utilities, industrials, renewable energy developers and telecommunications companies. With offices located nationwide, ECI provides transmission, distribution and substation design, electrical studies, SCADA and a wide range of communications   engineering services to a large and growing number of clients throughout the United States, Canada and abroad.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "booths_la": [
+                                "V13526randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Electrical Consultants, Inc.",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "1007-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "E",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15745randomstring"
+                            ],
+                            "exhid_l": "92385846",
+                            "exhdesc_t": "EVS is cultivating a sustainable future through quality engineering solutions for utility-scale solar installations, battery storage, substations, and power delivery systems.  We serve owners, developers, and EPC’s by designing projects that are efficient, cost-effective and meet challenging schedules.  Headquartered in Minnesota, with additional offices in Colorado and India, our rapidly growing team includes civil, structural, electrical, geotechnical engineering, and land survey disciplines, with licenses to practice in 48 states.       The team at EVS is excited about a clean energy future and the important role we play. As pioneers in this space, we will continue to push for new technologies, better solutions, and innovation as we make an impact on this world. Renewable energy is our sole focus, and we strive to deliver a one-stop shop experience for our clients, driving efficiency, insight, and value at every turn.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385846.png",
+                            "booths_la": [
+                                "F15745randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "EVS, Inc.",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385846-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "F",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2065randomstring"
+                            ],
+                            "exhid_l": "8799711",
+                            "exhdesc_t": "As the world leader in the manufacture, distribution and service of electronic test tools and software, Fluke is committed to advancing sustainability at a global level.  The growth of the renewable energy industry requires new testing equipment solutions for electricians, installers, and technicians involved with installation, maintenance and service who need precision measurement, quality control and reporting abilities. From solar clamp meters, solar irradiance meters and photovoltaic testers for residential needs, to commissioning a new PV array or routine maintenance on a solar farm or photovoltaic power station to electrical vehicle charging station and battery testing and inspection systems testers, Fluke has you covered.  Fluke customers stake their reputations on their tools and use tools to help extend their personal power and abilities.  They depend on Fluke reliability, accuracy, and commitment to safety to get the job done.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8799711.jpg",
+                            "booths_la": [
+                                "V2065randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Fluke Corporation",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799711-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "H",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V4498randomstring"
+                            ],
+                            "exhid_l": "1236",
+                            "exhdesc_t": "HICO America, a subsidiary of Hyosung Heavy Industry, delivers advanced power solutions across North America. Our Memphis facility specializes in manufacturing high-voltage transformers, ensuring local production and reliability. With a broad portfolio including GIS, FACTS, MV, HV, STATCOM, BESS, and transformers, HICO America supports utilities and industrial clients with innovative, eco-friendly technology. Backed by our parent company’s global expertise, we provide turnkey solutions, installation supervision, and service coverage from our Pittsburgh headquarters. Our commitment to quality, technology, and customer partnership makes HICO America a trusted name in power infrastructure across the U.S. and Canada.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "1236.png",
+                            "booths_la": [
+                                "V4498randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "HICO America",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "1236-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "J",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V1897randomstring"
+                            ],
+                            "exhid_l": "8800629",
+                            "exhdesc_t": "JSHP Transformer, a family-owned company founded in 1967, is now the largest single manufacturer of medium transformers in the world. Over the past two decades, JSHP has shipped 2-3 units of 110kV-800kV transformers and shunt reactors per DAY, as well as thousands of MV transformers monthly from its 100-acre facility. To date, the company has shipped a total of 14,500 units of 110kV-800kV transformers and shunt reactors to over 100 countries, along with 60,000+ units of MV transformers. Remarkably, there has not been a single catastrophic failure.    In 2024, JSHP delivered 141,000 MVA of transformers, marking an 11.6% year-over-year growth. The deliveries included 746 units of 110kV+ MPTs, rectifier/EAF transformers, and shunt reactors; 6,697 units of MVTs; 4,808 distribution transformers; and 4,919 cast resin transformers.    JSHP is proud to support approximately 10% of New York City's load, 18% of Las Vegas' load, and 8% of Ireland Dublin's total power demand.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800629.png",
+                            "booths_la": [
+                                "V1897randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "JSHP Transformer USA",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800629-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "K",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V7299randomstring"
+                            ],
+                            "exhid_l": "3137",
+                            "exhdesc_t": "K2 Systems is the engineering leader for all your solar mounting system needs. Since 2004, K2 Systems has developed pioneering and highly functional mounting system solutions for photovoltaic assemblies around the world. We design the systems in our own development department in close collaboration with sales and adapt and optimize them to the ever-changing market.      Here we benefit from years of experience, personal client relationships, and knowledge of the different international specifications. A particularly important contributor to our success is the team of 420 employees, whose great effort and creativity helps advance the worldwide development of renewable energies. Innovative module systems paired with the team's sense of mutual appreciation and fun make the company into a competent and likable partner!     As a roof-mounting specialists, we focus on developing and optimizing innovative mounting systems, while always keeping our feet on the ground.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "3137.png",
+                            "booths_la": [
+                                "V7299randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "K2 Systems, LLC",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "3137-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "K",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2717randomstring"
+                            ],
+                            "exhid_l": "92386209",
+                            "exhdesc_t": "Solar Logistics Solutions by Keller Logistics Group delivers purpose-built transportation, warehousing, and distribution support for the renewable energy supply chain. Backed by over 40 years of logistics expertise, Keller is an asset-based 3PL with a proven track record supporting major solar panel manufacturers and project developers across the U.S. Our solar-focused logistics model includes high-volume freight management, warehousing near installation sites, cross-docking, staging, and real-time tracking. As a diversified, family-owned company, we lead with a customer-first culture rooted in responsiveness, reliability, and resourcefulness. From the first mile to the final panel, Keller’s closed-loop logistics platform reduces cost, risk, and complexity—streamlining solar deployment through one trusted partner. Whether scaling a solar project or building a resilient supply chain, Keller is your logistics advantage in the clean energy transition.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386209.png",
+                            "booths_la": [
+                                "V2717randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Keller Logistics",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386209-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "M",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V4257randomstring"
+                            ],
+                            "exhid_l": "8800648",
+                            "exhdesc_t": "For over 130 years, Megger has been the premier provider of electric test equipment and measuring instruments for electrical power applications. Megger is best known for its best-in-class range of insulation testers and offering solutions in the most critical maintenance areas including cable fault locating, transformer testing, protective relay testing, and power quality testing. Megger’s engineered testing equipment includes 30 distinct product groups with over 1,000 specific products. With such a diverse product offering, Megger is the single source for electrical test and measuring instruments. ",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800648.png",
+                            "booths_la": [
+                                "V4257randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Megger",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800648-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "M",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F20301randomstring"
+                            ],
+                            "exhid_l": "92385923",
+                            "exhdesc_t": "Meta Power Solutions is a leading manufacturer of oil-filled power distribution transformers in North America, along with Switchboards and Medium Voltage Switchgear.  Meta Power Solutions designs, manufactures, and supplies commercial and industrial transformers across the country.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385923.png",
+                            "booths_la": [
+                                "F20301randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Meta Power Solutions",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385923-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "M",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15125randomstring"
+                            ],
+                            "exhid_l": "9483156",
+                            "exhdesc_t": "Mitsubishi Electric Power Products, Inc. (MEPPI) specializes in delivering secure and sustainable energy systems and solutions to the electric power industry, including smart grid distributed energy resource management systems (DERMS), fast-install PV Inverters and Power Quality Compensators, battery energy storage solutions (BESS), and substation monitoring utilizing advanced analytics.  MEPPI’s power transformers deliver industry-leading reliability and performance in both shell-form and core-form designs and our HVDC systems provide precise control over power flows and are ideal for situations of integrating bulk power renewable energy over long distances. MEPPI's PSED expertise includes consulting, engineering and studies support specializing in economic feasibility, industry analysis modeling/simulations, tariffs/regulations, testing/verification, standards, and specifications to cover a comprehensive range of critical considerations for your next clean energy project.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "9483156.png",
+                            "booths_la": [
+                                "F15125randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Mitsubishi Electric Power Products, Inc.",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "9483156-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "N",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V8743randomstring"
+                            ],
+                            "exhid_l": "2871",
+                            "exhdesc_t": "NRG Systems’ solar solutions deliver the data you need to plan and successfully operate your utility-scale photovoltaic project. Our measurement systems apply to pre-construction assessment as well as post-construction operational monitoring and are designed to transition seamlessly between the two. Our hardware and software offerings work together for unrivaled ease-of-use and can be paired with our design, installation, and operational services for truly turnkey solutions. Our resource measurement systems, turbine control sensors, Bat Deterrent Systems, and Lidar remote sensors can be found in more than 170 countries. For more information, please visit nrgsystems.com.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "2871.png",
+                            "booths_la": [
+                                "V8743randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "NRG Systems",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "2871-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "O",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13535randomstring"
+                            ],
+                            "exhid_l": "8800440",
+                            "exhdesc_t": "Our mission: to improve lives and contribute to a better society.    OMRON Electronic Components is a leading manufacturer and provider of advanced electronic components. Extensive product groups include relays, switches, connectors, pressure sensors, and optical components. OMRON's broad product offering solutions can be integrated in applications for energy, industrial automation, test and measurement/automated test equipment, power tool, smart home/building and entertainment/gaming markets around the world.     OMRON Electronic Components has an extensive sales network consisting of regional sales professionals, inside sales representatives, technical sales assistants, customer service staff, and an authorized distributor network.     Learn more at components.omron.com/us",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800440.png",
+                            "booths_la": [
+                                "V13535randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Omron Electronic Components",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800440-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "P",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13429randomstring"
+                            ],
+                            "exhid_l": "8799789",
+                            "exhdesc_t": "At Pacific Coast Wire and Cable we know the uncertainty of project development and construction. We understand the complexity of getting the right product at a competitive price and delivered on time. We apply our expertise and experience to increase certainty and simplify the process so you can complete more projects on time and increase profitability. We don’t want to have another transaction. We want a relationship.    The supply chain right now is very unpredictable and slow at times. We understand that frustration and have multiple vendors to choose from. We are an excellent resource for tough-to-find products. We will find someone who can fill the need you have.    We have outworked and out-served our competitors, and we have satisfied customers that have said so.     No matter if you are working on a sizeable utility-scale project, commercial building project, or residential solar system, we are here to serve you.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8799789.png",
+                            "booths_la": [
+                                "V13429randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Pacific Coast Wire and Cable",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799789-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "P",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V3108randomstring"
+                            ],
+                            "exhid_l": "92385837",
+                            "exhdesc_t": "Power Grid Components (PGC) is a multi-product line supplier of highly engineered, quality power equipment primarily used in substations to build and maintain the North American power grid. Through our brands Allied Bolt, Elliott, ITEC, Meister, Mid-Central Electric, Newell, Royal, and Vizimax, PGC offers high-voltage disconnect switchgear, high-quality porcelain, composite, and glass insulators, instrument transformers, outside plant hardware, controlled switching devices, power distribution products, and fixed-load transformers.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385837.png",
+                            "booths_la": [
+                                "V3108randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Power Grid Components",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385837-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "P",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V1255randomstring"
+                            ],
+                            "exhid_l": "32410167",
+                            "exhdesc_t": "With over 60 years of expertise, TTE designs and manufactures high-performance power and  distribution transformers from Argentina to the world.  From our newly expanded and modernized plant, we offer some of the most competitive lead times in the industry.    Let’s discuss how TTE can add value to your next project!  Meet us at RE+ 25 – Booth V1255",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "32410167.png",
+                            "booths_la": [
+                                "V1255randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Pralar USA, Inc (Power Transformers)",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32410167-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "P",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V8948randomstring",
+                                "V8949randomstring"
+                            ],
+                            "exhid_l": "7779",
+                            "exhdesc_t": "Our vision is to accelerate global transition to clean energy.  Renewable energy is set to overtake coal and gas by the end of 2024 with solar energy being the key driver of this transition. Although it evolves faster than wind and hydro due to the falling development costs, further solar PV technological innovation along the entire value chain is needed to meet the growing demand.    Despite considerable resources already invested in the solar market, the solar engineering industry has struggled to maintain the pace and is lacking significant digitization. PVcase is determined to play a vital role in this transformation.    By connecting the entire solar planning workflow, our solutions empower companies to make data-driven decisions with confidence when optimizing designs and assessing the viability of commercial and utility-scale power plants.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "7779.png",
+                            "booths_la": [
+                                "V8948randomstring",
+                                "V8949randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "PVcase, UAB",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B",
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "7779-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "R",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15513randomstring"
+                            ],
+                            "exhid_l": "32409855",
+                            "exhdesc_t": "Redaptive empowers developers with flexible, tailored capital solutions designed specifically for complex energy and infrastructure projects, including solar, storage, HVAC, lighting, controls, and efficiency upgrades. Through our Infrastructure Monetization model, we provide milestone-based financing, streamlined execution support, and incentive management built to enhance your capabilities. As your strategic capital partner, we help you scale with confidence, manage financial and operational risk, and maintain your focus on delivering exceptional project outcomes",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "32409855.png",
+                            "booths_la": [
+                                "F15513randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Redaptive Inc",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32409855-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "R",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F20201randomstring"
+                            ],
+                            "exhid_l": "32409868",
+                            "exhdesc_t": "Sister companies Eplan LLC and Rittal LLC bring complementary strengths to industrial and IT infrastructure solutions. Eplan LLC is a global leader in software and service offerings for electrical, automation, and mechatronic engineering, supporting 68,000 customers with cutting‑edge design tools and seamless ERP/PLM integrations. Rittal LLC is the world’s largest manufacturer of industrial and IT enclosures, racks, power distribution, and accessories—ranging from single enclosures to mission‑critical systems—with solutions tested and certified to UL, CSA, ATEX, NEMA, and more. Both headquartered in the U.S. and part of the Friedhelm Loh Group, they drive innovation, efficiency, and quality across industries worldwide.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "32409868.jpg",
+                            "booths_la": [
+                                "F20201randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Rittal, LLC",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "32409868-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "S",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V10042randomstring"
+                            ],
+                            "exhid_l": "92386074",
+                            "exhdesc_t": "Founded in 1993 and headquartered in Shanghai, China, Sieyuan Electric is a global leader specializing in smart grids, ultra-high voltage (UHV) systems, renewable energy integration, and industrial automation, driving innovation in energy infrastructure worldwide.    Sieyuan operates 16 factories and subsidiaries, employs over 9,500 people, and generates annual revenue exceeding 3.2 billion USD . Its extensive product portfolio includes power transformers up to 500 kV (partnership with Toshiba), circuit breakers up to 500 kV, as well as a full range of switchgear and instrument transformers—enabling complete, integrated substation solutions.    Committed to quality and international standards such as IEEE, CSA and IEC, Sieyuan invests heavily to deliver reliable, efficient, and sustainable products. With installations in more than 100 countries, the company continues to support utilities, renewable developers, and industrial customers in building smarter and more resilient power grids.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386074.png",
+                            "booths_la": [
+                                "V10042randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Sieyuan Electric Co.,Ltd",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386074-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "S",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V4496randomstring"
+                            ],
+                            "exhid_l": "92385766",
+                            "exhdesc_t": "Solar Cellz USA is a North Carolina-based solar energy company specializing in providing high-quality solar solutions to residential, commercial, and utility-scale clients. Founded in 2021 and headquartered in Charlotte, the company has quickly established itself as a trusted provider of solar energy equipment and services. ​Better Business Bureau+1Better Business Bureau+1    Company Overview    Solar Cellz USA offers a comprehensive range of solar products and services, including solar panels, inverters, battery storage systems, racking solutions, and electric vehicle (EV) chargers. The company caters to a diverse clientele, from homeowners seeking sustainable energy solutions to businesses and contractors requiring reliable solar equipment. Their product offerings feature renowned brands such as Enphase, LG, Panasonic, Tesla, and SMA Solar. ​",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385766.png",
+                            "booths_la": [
+                                "V4496randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Solar Cellz USA LLC",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385766-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "S",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13735randomstring"
+                            ],
+                            "exhid_l": "8799865",
+                            "exhdesc_t": "At Southwire, we know that a sustainable power grid is essential. Our customers’ needs are always at the forefront of our innovations. As power sources change and become more renewable, we are ready to provide the products and services you need to help ensure reliable and resilient power delivery. From wind and solar power generation to electric vehicles, we continue to offer the innovation, expertise, and responsiveness to help improve system reliability and resiliency. At Southwire, “We deliver power…responsibly™.”",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8799865.png",
+                            "booths_la": [
+                                "V13735randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Southwire",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799865-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "S",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V4054randomstring"
+                            ],
+                            "exhid_l": "92385974",
+                            "exhdesc_t": "SRS Distribution is the fastest growing distributor of building products in the United States, committed to serving the professional rooﬁng contractor’s business.  SRS Delivers more than building products.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92385974.png",
+                            "booths_la": [
+                                "V4054randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "SRS Distribution",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92385974-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "S",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V10138randomstring"
+                            ],
+                            "exhid_l": "7994",
+                            "exhdesc_t": "Sunbelt Solomon delivers comprehensive, full-lifecycle solutions for power, energy, and automation across the Americas, with over 37 locations and 1,500 skilled professionals. Our services encompass low, medium, and high-voltage systems, addressing the needs of virtually every industry. We specialize in the manufacturing and remanufacturing of electrical equipment, including transformers, switching devices, and switchgear, and offer flexible and reliable rental solutions for a wide range of applications. Backed by our family of brands, we provide expert consulting engineering and extensive technical field services, supported by a team that includes over 100 NETA-certified technicians. Dedicated to innovation and safety, Sunbelt Solomon is committed to delivering turnkey solutions that support critical infrastructure and drive the future of energy.​",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "7994.png",
+                            "booths_la": [
+                                "V10138randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Sunbelt Solomon",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "7994-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "U",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V2253randomstring"
+                            ],
+                            "exhid_l": "8799671",
+                            "exhdesc_t": "Unimacts: Your Scalable Manufacturing Partner for Solar Projects  If you're sourcing components for utility-scale solar, Unimacts—backed by global manufacturing leader Zetwerk—delivers what matters: IRA-compliant parts, competitive pricing, and fast, reliable lead times.    Why Solar Buyers Choose Unimacts:    *Over 15 GW of U.S. solar projects supported since 2019  *ISO 9001-certified production across U.S., Mexico, India, China, and Europe  *Trusted by top solar EPCs and OEMs for quality, delivery, and cost control    What We Supply:  *Steel foundational piles  *Torque tubes and beams  *Slewing drives, bearings, gearboxes, dampers, and couplers  *PV & MV cables  *Transformers – dry-type, liquid-filled, and containerized substations  *Rail assemblies, ground screws, fasteners  *Pre-kitted mechanical systems and sub-assemblies    We help you streamline procurement and stay on schedule.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8799671.png",
+                            "booths_la": [
+                                "V2253randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Unimacts Global, LLC",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "A"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8799671-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "V",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F20800randomstring"
+                            ],
+                            "exhid_l": "92386211",
+                            "exhdesc_t": "Safely accelerate renewable energy developments before federal tax credits run out.      Veriforce is a global leader in contractor management, helping renewable energy leaders build safe, qualified, and compliant workforces. Our integrated SaaS platform combines contractor qualification, training, evaluation, and compliance tracking to reduce risk and improve workforce performance.  With a network spanning over 3,200 hiring companies in 140+ countries and supporting more than 130,000 contractors and millions of workers, Veriforce connects renewable energy developers with trusted third-party labor to get the job done safely and efficiently. We also support a robust community of over 7,000 authorized instructors and evaluators.  We operate globally with offices in the U.S., Canada, South Africa, the U.K., and Australia.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "92386211.png",
+                            "booths_la": [
+                                "F20800randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Veriforce",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "92386211-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "V",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V13722randomstring"
+                            ],
+                            "exhid_l": "8800282",
+                            "exhdesc_t": "Voltage Energy provides high quality EBOS solutions and services across a broad spectrum of the renewable energy sector. Innovations such as the leading-edge Voltage LYNX system benefit our industry partners through improved efficiencies in budgets and labor.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "8800282.png",
+                            "booths_la": [
+                                "V13722randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Voltage Energy",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "8800282-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "Y",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "V11047randomstring"
+                            ],
+                            "exhid_l": "130",
+                            "exhdesc_t": "Yaskawa Solectria Solar, a wholly owned subsidiary of Yaskawa America, Inc., is the largest U.S.-based inverter manufacturer, with design and engineering offices in Lawrence, MA, headquarters in Waukegan, IL and world-class production facilities in Buffalo Grove, IL and Franklin, WI.  Solectria’s products include 25kW to 250kW inverters, string combiners and web-based monitoring for solar systems of all sizes. Solectria is backed by over 100 years of power electronics and inverter experience.     Yaskawa Solectria Solar has over 20 years of experience and the company’s flagship product line, the Solectria® XGI 1500 inverters, reflects this commitment to quality and innovation.  All of Solectria’s XGI 1500 three-phase utility-scale inverters are Made in the USA. PV system owners, developers and EPCs rely on the high performance, reliability and bankability of Yaskawa Solectria Solar.  Visit for more information www.solectria.com",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "130.jpg",
+                            "booths_la": [
+                                "V11047randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Yaskawa Solectria Solar",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "B"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "130-Exhibitor-RE25"
+                    },
+                    {
+                        "fields": {
+                            "exhalpha_l": "Y",
+                            "exhslotted_t": "1",
+                            "MYS": {
+                                "addedtoplanner": false
+                            },
+                            "boothsdisplay_la": [
+                                "F15307randomstring"
+                            ],
+                            "exhid_l": "7857",
+                            "exhdesc_t": "Yotta Energy (Yotta) is a renewable energy storage company that provides cost-effective, scalable, distributed, and smart energy storage solutions.  Yotta has developed PV-Coupled™ architecture, a smart energy storage technology designed to effortlessly scale with rooftop solar PV projects. Yotta has created the first panel-level energy storage product that fits perfectly behind any industry standard solar module, neatly integrating into PV racking in place of concrete ballast.",
+                            "exhbullet_t": "1",
+                            "iscrossref_l": "0",
+                            "exhlogo_t": "7857.png",
+                            "booths_la": [
+                                "F15307randomstring"
+                            ],
+                            "exhadvind_t": "1",
+                            "exhname_t": "Yotta Energy",
+                            "exhfeatured_t": "1",
+                            "hallid_la": [
+                                "C"
+                            ],
+                            "icons": [],
+                            "tags": []
+                        },
+                        "id": "7857-Exhibitor-RE25"
+                    }
+                ],
+                "start": 0,
+                "found": 35
+            }
+        },
+        "searchtext": "",
+        "totalhits": 1325.0
+    },
+    "ERRORCODE": "0",
+    "STATUSCODE": 200,
+    "ERRORDETAIL": "",
+    "STATUSTEXT": "OK"
+}
